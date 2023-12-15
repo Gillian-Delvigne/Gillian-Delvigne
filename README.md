@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Gillian</h1>
 <h3 align="center">A passionate training developer from Brussels 🇧🇪</h3>
 
-- 🔭 I’m currently working on **Born2beroot** and **Fdf**
+- 🔭 I’m currently working on **Fdf**
 
 - 🌱 I’m currently learning **C**
 
