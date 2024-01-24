@@ -1,9 +1,22 @@
 <h1 align="center">Hello World 👋, I'm Gillian</h1>
 <h3 align="center">A passionate training developer from Brussels 🇧🇪</h3>
 
-- 🔭 I’m currently working on **Fdf**
-
 - 🌱 I’m currently learning **C**
+- 🔭 I’m currently working on **Pipex**
+  
+
+
+    | Project | Status |
+    |---------|-----------------------|
+    | Piscine | :white_check_mark: |
+    | Libft   | :white_check_mark: |
+    | ft_printf | :white_check_mark: |
+    | get_next_line | :white_check_mark: |
+    | born2beroot | :white_check_mark: |
+    | Exam rank 2 | :white_check_mark: |
+    | Fdf     | :white_check_mark: |
+    | pipex   |              |
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
