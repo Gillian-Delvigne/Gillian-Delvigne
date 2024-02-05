@@ -2,7 +2,7 @@
 <h3 align="center">A passionate training developer from Brussels 🇧🇪</h3>
 
 - 🌱 I’m currently learning **C**
-- 🔭 I’m currently working on **Pipex**
+- 🔭 I’m currently working on **Push Swap**
   
 
 
@@ -15,7 +15,8 @@
     | born2beroot | :white_check_mark: |
     | Exam rank 2 | :white_check_mark: |
     | Fdf     | :white_check_mark: |
-    | pipex   |              |
+    | pipex   | :white_check_mark: |
+  | push_swap   |              |
 
 
 <h3 align="left">Connect with me:</h3>
