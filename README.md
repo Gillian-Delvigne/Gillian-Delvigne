@@ -4,21 +4,22 @@
 <h3 align="center">A passionate training developer from Brussels 🇧🇪</h3>
 
 - 🌱 I’m currently learning **C**
-- 🔭 I’m currently working on **Push Swap**
+- 🔭 I’m currently working on **Philosophers**
   
 
 
     | Project | Status |
     |---------|-----------------------|
-    | Piscine | :white_check_mark: |
-    | Libft   | :white_check_mark: |
+    | piscine | :white_check_mark: |
+    | libft   | :white_check_mark: |
     | ft_printf | :white_check_mark: |
     | get_next_line | :white_check_mark: |
     | born2beroot | :white_check_mark: |
-    | Exam rank 2 | :white_check_mark: |
-    | Fdf     | :white_check_mark: |
+    | exam rank 2 | :white_check_mark: |
+    | fdf     | :white_check_mark: |
     | pipex   | :white_check_mark: |
-  | push_swap   |              |
+  | push_swap   | :white_check_mark: |
+  | philosophers | |
 
 
 <h3 align="left">Connect with me:</h3>
