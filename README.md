@@ -4,7 +4,7 @@
 <h3 align="center">A passionate training developer from Brussels 🇧🇪</h3>
 
 - 🌱 I’m currently learning **C**
-- 🔭 I’m currently working on **Philosophers**
+- 🔭 I’m currently working on **Minishell**
   
 
 
@@ -19,7 +19,8 @@
     | fdf     | :white_check_mark: |
     | pipex   | :white_check_mark: |
   | push_swap   | :white_check_mark: |
-  | philosophers | |
+  | philosophers | :white_check_mark: |
+  | minishell |  |
 
 
 <h3 align="left">Connect with me:</h3>
