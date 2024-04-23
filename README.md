@@ -20,6 +20,7 @@
     | pipex   | :white_check_mark: |
   | push_swap   | :white_check_mark: |
   | philosophers | :white_check_mark: |
+  | exam rank 3 | :white_check_mark: |
   | minishell |  |
 
 
