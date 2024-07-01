@@ -4,7 +4,7 @@
 <h3 align="center">A passionate training developer from Brussels 🇧🇪</h3>
 
 - 🌱 I’m currently learning **C**
-- 🔭 I’m currently working on **Net Practice**
+- 🔭 I’m currently working on **Cub3d**
   
 
 
@@ -22,7 +22,7 @@
   | philosophers | :white_check_mark: |
   | exam rank 3 | :white_check_mark: |
   | minishell | :white_check_mark: |
-   | net_practice |  |
+   | net_practice | :white_check_mark: |
    | cube_3d |  |
 
 
