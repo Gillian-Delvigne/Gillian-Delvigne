@@ -3,8 +3,8 @@
 <h1 align="center">Hello World 👋, I'm Gillian</h1>
 <h3 align="center">A passionate training developer from Brussels 🇧🇪</h3>
 
-- 🌱 I’m currently learning **C**
-- 🔭 I’m currently working on **Cub3d**
+- 🌱 I’m currently learning **C++**
+- 🔭 I’m currently working on **CPP Piscine**
   
 
 
@@ -22,8 +22,10 @@
   | philosophers | :white_check_mark: |
   | exam rank 3 | :white_check_mark: |
   | minishell | :white_check_mark: |
+  | exam rank 4 | :white_check_mark: |
    | net_practice | :white_check_mark: |
-   | cube_3d |  |
+   | cube_3d | :white_check_mark: |
+  | CPP_00 |  |
 
 
 <h3 align="left">Connect with me:</h3>
