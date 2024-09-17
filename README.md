@@ -25,7 +25,11 @@
   | exam rank 4 | :white_check_mark: |
    | net_practice | :white_check_mark: |
    | cube_3d | :white_check_mark: |
-  | CPP_00 |  |
+  | CPP_00 |  :white_check_mark: |
+  | CPP_01 |   |
+  | CPP_02 |   |
+  | CPP_03 |   |
+  | CPP_04 |   |
 
 
 <h3 align="left">Connect with me:</h3>
