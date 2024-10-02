@@ -26,8 +26,8 @@
    | net_practice | :white_check_mark: |
    | cube_3d | :white_check_mark: |
   | CPP_00 |  :white_check_mark: |
-  | CPP_01 |   |
-  | CPP_02 |   |
+  | CPP_01 |  :white_check_mark: |
+  | CPP_02 |  :white_check_mark: |
   | CPP_03 |   |
   | CPP_04 |   |
 
