@@ -16,7 +16,7 @@
 <p align="justify">At Campus 19, I’ve embraced the challenge of rigorous, peer-driven learning in software engineering, working on diverse projects, from algorithmic puzzles to full-fledged applications. I thrive on exploring new technologies and taking part in collaborative projects.</p>
 
 <details>
-<summary>Want to know more about my 42 cursus progress?</summary>
+<summary>Display my 42 cursus (common core) progress</summary>
 <br>
 🌱 I’m currently learning **C++**<br>
 🔭 I’m currently working on **CPP Piscine and Webserv**
