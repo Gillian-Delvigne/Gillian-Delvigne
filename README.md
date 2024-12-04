@@ -18,8 +18,8 @@
 <details>
 <summary>Display my 42 cursus (common core) progress</summary>
 <br>
-🌱 I’m currently learning **C++**<br>
-🔭 I’m currently working on **CPP Piscine and Webserv**
+🌱 I’m currently learning C++ <br>
+🔭 I’m currently working on CPP Piscine and Webserv
 
 
 | Project        | Status              |
@@ -49,7 +49,7 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,html,css,js,ts,react,php,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,threejs,php,wordpress,git,github,vscode,vim,vite,vercel)](https://skillicons.dev)
 
 <h4>Some statistics...</h4>
 
