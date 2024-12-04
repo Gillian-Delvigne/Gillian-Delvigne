@@ -2,7 +2,7 @@
 <h3 align="center">A passionate training developer from Brussels 🇧🇪</h3>
 
 - 🌱 I’m currently learning **C++**
-- 🔭 I’m currently working on **CPP Piscine**
+- 🔭 I’m currently working on **CPP Piscine and Webserv**
   
 
 
