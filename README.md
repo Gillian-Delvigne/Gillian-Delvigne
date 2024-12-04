@@ -4,11 +4,16 @@
 <br>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,html,css,js,ts,react,php,wordpress)](https://skillicons.dev)
+<p align="justify">I’m a software engineering student at Campus 19, driven by a deep passion for technology, continuous learning, and crafting elegant solutions to complex problems. My journey into the digital world is rooted in curiosity and a diverse professional background that shaped my adaptable and creative mindset.</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gillian-delvigne&show_icons=true&locale=en" alt="gillian-delvigne" /></p>
+<h4>From Humanities to Code</h4>
+
+<p align="justify">My professional path started outside tech: as a linguistics lecturer and digital learning manager, I honed skills in communication, pedagogy, and project management. These experiences taught me to think critically, solve problems effectively, and deliver meaningful solutions — skills I now channel into software development.</p>
+
+<h4>What I Do</h4>
+
+<p align="justify">At Campus 19, I’ve embraced the challenge of rigorous, peer-driven learning in software engineering, working on diverse projects, from algorithmic puzzles to full-fledged applications. I thrive on exploring new technologies and taking part in collaborative projects.</p>
 
 <details>
 <summary>Want to know more about my 42 cursus progress?</summary>
@@ -41,3 +46,11 @@
 | CPP_04         |                    |
 
 </details>
+
+<h4 align="left">Languages and Tools:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,html,css,js,ts,react,php,wordpress)](https://skillicons.dev)
+
+<h4>Some statistics...</h4>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gillian-delvigne&show_icons=true&locale=en" alt="gillian-delvigne" /></p>
