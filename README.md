@@ -49,7 +49,7 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,threejs,php,wordpress,git,github,vscode,vim,vite,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,threejs,nodejs,php,wordpress,vite,vercel,git,github,vscode,vim,ai,ps,xd)](https://skillicons.dev)
 
 <h4>Some statistics...</h4>
 
