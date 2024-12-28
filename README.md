@@ -42,8 +42,10 @@
 | CPP_00         | :white_check_mark: |
 | CPP_01         | :white_check_mark: |
 | CPP_02         | :white_check_mark: |
-| CPP_03         |                    |
-| CPP_04         |                    |
+| CPP_03         | :white_check_mark: |
+| CPP_04         | :white_check_mark: |
+| CPP_05         |                    |
+| CPP_06         |                    |
 
 </details>
 
