@@ -44,8 +44,14 @@
 | CPP_02         | :white_check_mark: |
 | CPP_03         | :white_check_mark: |
 | CPP_04         | :white_check_mark: |
-| CPP_05         |                    |
-| CPP_06         |                    |
+| CPP_05         | :white_check_mark: |
+| CPP_06         | :white_check_mark: |
+| CPP_07         |                    |
+| CPP_08         |                    |
+| CPP_09         |                    |
+| webserv        | :white_check_mark: |
+| inception      |                    |
+| transcendance  |                    |
 
 </details>
 
