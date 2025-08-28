@@ -18,8 +18,8 @@
 <details>
 <summary>Display my 42 cursus (common core) progress</summary>
 <br>
-🌱 I’m currently learning C++ <br>
-🔭 I’m currently working on CPP Piscine and Webserv
+🌱 I’m currently learning Python and SQL <br>
+🔭 I’m currently working post CC project
 
 
 | Project        | Status              |
