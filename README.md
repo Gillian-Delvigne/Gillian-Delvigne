@@ -19,7 +19,7 @@
 <summary>Display my 42 cursus (common core) progress</summary>
 <br>
 🌱 I’m currently learning Python and SQL <br>
-🔭 I’m currently working post CC project
+🔭 I’m currently working on post CC project
 
 
 | Project        | Status              |
