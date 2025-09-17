@@ -61,4 +61,4 @@
 
 <h4>Some statistics...</h4>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gillian-delvigne&show_icons=true&locale=en" alt="gillian-delvigne" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-navy-nine-62.vercel.app/api?username=gillian-delvigne&show_icons=true&locale=en" alt="gillian-delvigne" /></p>
