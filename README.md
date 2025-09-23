@@ -4,7 +4,6 @@
 <br>
 <br>
 
-
 <p align="justify">I’m a software engineering student at Campus 19, driven by a deep passion for technology, continuous learning, and crafting elegant solutions to complex problems. My journey into the digital world is rooted in curiosity and a diverse professional background that shaped my adaptable and creative mindset.</p>
 
 <h4>From Humanities to Code</h4>
