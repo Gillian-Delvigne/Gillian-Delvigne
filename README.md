@@ -57,7 +57,3 @@
 <h4 align="left">Languages and Tools:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,threejs,nodejs,php,wordpress,vite,vercel,git,github,vscode,vim,ai,ps,xd)](https://skillicons.dev)
-
-<h4>Some statistics...</h4>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-navy-nine-62.vercel.app/api?username=gillian-delvigne&show_icons=true&locale=en&theme=tokyonight&token=PAT_1" alt="gillian-delvigne" /></p>
