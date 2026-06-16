@@ -54,4 +54,4 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,threejs,nodejs,php,wordpress,vite,vercel,git,github,vscode,vim,ai,ps,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,threejs,nodejs,python,postgresql,php,wordpress,vite,vercel,git,github,vscode,vim,ai,ps,xd)](https://skillicons.dev)
